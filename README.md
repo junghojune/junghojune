@@ -1,6 +1,10 @@
 ### Hi there 👋
-Jung hojune Profile
 
+my email : hojune0904@gmail.com
+
+my blog  : [junghojune (hosu) - velog](https://velog.io/@junghojune)
+
+ㅡ
 <!--
 **junghojune/junghojune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
