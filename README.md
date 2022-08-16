@@ -5,3 +5,5 @@
 my email : hojune0904@gmail.com
 
 my blog  : [junghojune (hosu) - velog](https://velog.io/@junghojune)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghojune&layout=compact)](https://github.com/junghojune/github-readme-stats)
