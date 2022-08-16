@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=JungHojune&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hojune!&fontAlign=80&fontAlignY=40&color=auto)
 
 my email : hojune0904@gmail.com
 
